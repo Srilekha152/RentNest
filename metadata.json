@@ -1,0 +1,8 @@
+{
+  "name": "Copy of RentNest - Pro Rental Management",
+  "description": "A comprehensive rental property application for owners and renters featuring AI-powered property recommendations and management tools.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
